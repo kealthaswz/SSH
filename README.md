@@ -1,6 +1,15 @@
 # SSH: Single Stage Headless Face Detector
 
-## Introduction
+## Simple introduction
+
+Open [google colab](https://colab.research.google.com) 
+Upload my jupyter notebook [caffe_ssh.ipynb](https://github.com/DenisSouth/SSH/blob/master/caffe_ssh.ipynb)
+Change runtime type to python 2 with GPU
+Run jupyter notebook cells one by one
+Finally you will able to run demo.py
+
+
+## Original introduction
 This repository includes the code for training and evaluating the *SSH* face detector introduced in our [**ICCV 2017 paper**](https://arxiv.org/abs/1708.03979).
 
 ![alt text](http://legacydirs.umiacs.umd.edu/~najibi/github_readme_files/ssh_detections.jpg "SSH detection samples")
