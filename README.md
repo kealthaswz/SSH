@@ -1,12 +1,12 @@
 # SSH: Single Stage Headless Face Detector
 
-## Simple introduction
+## Simple guide to run demo.py
 
-Open [google colab](https://colab.research.google.com) 
-Upload my jupyter notebook [caffe_ssh.ipynb](https://github.com/DenisSouth/SSH/blob/master/caffe_ssh.ipynb)
-Change runtime type to python 2 with GPU
-Run jupyter notebook cells one by one
-Finally you will able to run demo.py
+1. Open [google colab](https://colab.research.google.com) 
+2. Upload my jupyter notebook [caffe_ssh.ipynb](https://github.com/DenisSouth/SSH/blob/master/caffe_ssh.ipynb)
+3. Change runtime type to python 2 with GPU
+4. Run jupyter notebook cells one by one
+5. Finally you will able to run demo.py
 
 
 ## Original introduction
